@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: kzegani-playground
-          image: kzegani/inception-of-things-p3-app:v1
+          image: kzegani/inception-of-things-p3-app:v2
           ports:
             - containerPort: 8888
 ---
